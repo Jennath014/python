@@ -1,0 +1,7 @@
+ball
+cat
+doggy
+star
+calle
+steve
+stelle
